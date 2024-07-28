@@ -4,6 +4,7 @@ import Price from './components/Price';
 import Description from './components/Description';
 import Image from './components/Image';
 
+
 function App() {
   const firstName = "Oluwasegun"; 
 
