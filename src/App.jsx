@@ -6,7 +6,7 @@ import Image from './components/Image';
 
 
 function App() {
-  const firstName = "Oluwasegun"; 
+  const firstName = "Oluwasegunfunmi"; 
 
   return (
     <div className="container mt-5">
